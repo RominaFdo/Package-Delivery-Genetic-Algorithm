@@ -24,7 +24,7 @@ The project includes:
 ## Project Structure
 
 ```text
-JeneticsDemo/
+Package_delivery_GA/
 ├── .gitignore
 ├── README.md
 ├── pom.xml
